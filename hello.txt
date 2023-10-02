@@ -15,4 +15,5 @@ hello xiaoxieya! hello shusheng!
 hello xiaoxieya! hello shusheng!
 hello 你好，小谢！
 世上无难事，只怕有心人！
-test master
+test master！
+test hot-fix!
