@@ -18,3 +18,4 @@ hello 你好，小谢！
 test master！
 test hot-fix!
 提交
+合并
